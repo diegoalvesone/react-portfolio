@@ -1,14 +1,14 @@
 let resumeData = {
     "imagebaseurl":"www.sprone.tech",
     "name": "Diego Alves",
-    "role": "Front-end and Back-end Developer",
-    "linkedinId":" diego-alves-costa-381b617b",
+    "role": "Full Stack Developer",
+    "linkedinId":" diegoalvescosta",
     "skypeid": "Your skypeid",
     "roleDescription": " Apaixonado por tecnologias, atualmente estudando NodeJS, ReactJS e React Native. Gosto de games e praticar esportes nas horas vagas.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/diego-alves-costa-381b617b/",
+          "url":"https://www.linkedin.com/in/diegoalvescosta/",
           "className":"fa fa-linkedin"
         },
         {
@@ -17,8 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"Cursando o último ano da especialização em Desenvolvimento Web e aproveitando para treinar as habilidades em desenvolvimento.",
-    "address":"Brasil",
+    "aboutme":"Professor licenciado em computação com pós-graduação em Desenvolvimento Web",
+    "address":"Poço Fundo - MG",
     "website":"www.sprone.tech",
     "education":[
       {
@@ -42,13 +42,12 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Farmácia Santa Terezinha",
-        "specialization":"Balconista / Técnico em Tecnologia da Informação",
+        "CompanyName":"Drogaria Nossa Senhora do Rosário",
+        "specialization":"Gerente / Técnico em Tecnologia da Informação",
         "MonthOfLeaving":"Set",
         "YearOfLeaving":"2015 / -",
       }
-    ],
-    "skillsDescription":"Your skills here",
+    ],  
     "skills":[
       {
         "skillname":"HTML5"
@@ -57,7 +56,7 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"JavaScript / ReactJS "
       }
     ],
     "portfolio":[
@@ -84,12 +83,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Excelente Profissional",
+        "name":"spray"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Excelente Profissional",
+        "name":"spray"
       }
     ]
   }
